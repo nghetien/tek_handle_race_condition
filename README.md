@@ -24,6 +24,6 @@ tekHandleRaceCondition.call((){
 
 <p align="center">
   <a href="https://buymeacoffee.com/nghequyetts">
-    <img width="400" src="assets/images/Buy-me-a-coffee.png">
+    <img width="400" src="https://github.com/nghetien/tek_handle_race_condition/blob/main/assets/images/Buy-me-a-coffee.png">
   </a>
 </p>
