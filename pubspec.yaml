@@ -1,6 +1,6 @@
 name: tek_handle_race_condition
 description: "Tek handle race condition."
-version: 0.0.1
+version: 0.0.2
 homepage: https://pub.dev/packages/tek_handle_race_condition
 
 environment:
