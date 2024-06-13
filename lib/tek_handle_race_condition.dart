@@ -11,6 +11,10 @@ class TekHandleRaceCondition<T> {
 
   bool? get isCompleted => _completer?.isCompleted;
 
+  void reset() {
+    _completer = null;
+  }
+
   Future<T> call(TekHandleRaceConditionCallback<T> callback) async {
     // Nếu chưa khởi tạo thì khởi tạo Completer mới
     // Nếu đã khởi tạo rồi thì check isCompleted
