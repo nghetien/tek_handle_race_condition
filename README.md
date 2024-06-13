@@ -45,4 +45,4 @@ void main() async {
 
 ## ❤️ Buy me a coffee
 
-![Buy me a coffee](https://raw.githubusercontent.com/nghetien/tek_handle_race_condition/main/assets/images/Buy-me-a-coffee.png)
+![https://buymeacoffee.com/nghequyetts](https://raw.githubusercontent.com/nghetien/tek_handle_race_condition/main/assets/images/Buy-me-a-coffee.png)
