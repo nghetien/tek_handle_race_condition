@@ -19,7 +19,7 @@ class TekHandleRaceCondition<T> {
   /// Nếu đã khởi tạo rồi thì check isCompleted
   /// Nếu isCompleted đã hoàn thành thì tạo Completer mới và chạy lại luồng cũ
   /// Nếu isCompleted chưa hoàn thành thì trả về future cũ
-  Future<T> call(TekHandleRaceConditionCallback<T> callback) async {
+  Future<T?> call(TekHandleRaceConditionCallback<T> callback) async {
     if (_completer != null) return _completer!.future;
     _completer = Completer<T>();
     final result = await _handleCallBack(callback);

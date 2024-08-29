@@ -1,6 +1,6 @@
 name: tek_handle_race_condition
 description: "Tek handle race condition."
-version: 0.0.7
+version: 0.0.8
 homepage: https://pub.dev/packages/tek_handle_race_condition
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
